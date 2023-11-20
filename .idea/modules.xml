@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract_Practice.iml" filepath="$PROJECT_DIR$/Abstract_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../VotingApp-master/VotingApp-master/VotingApp/VotingApp.iml" filepath="$PROJECT_DIR$/../../VotingApp-master/VotingApp-master/VotingApp/VotingApp.iml" />
+    </modules>
+  </component>
+</project>
